@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8986e07a-59ed-4a43-b3a0-b4fada04871c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/UntransparentMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/patches/AbstractCardPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/patches/ImageMasterPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/patches/ModdedEnergyOrbPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/patches/TextureAtlasPatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/patches/TexturePatches.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/util/CardInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/util/GeneralUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/util/KeywordInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/untransparentthespire/util/TextureLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/ModTheSpire.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/untransparentthespire/badge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/untransparentthespire/missing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/untransparentthespire/morenothing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/untransparentthespire/nothing.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PsTzL5XiaI0EX0XKBmggzLGR4l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Programs/StS/UntransparentTheSpire",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="defaultmod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JAR Application.mts_testing">
+    <configuration name="mts-dump-outjar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../../../SteamLibrary/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar" />
+      <option name="PROGRAM_PARAMETERS" value="--out-jar" />
+      <option name="WORKING_DIRECTORY" value="D:\SteamLibrary\steamapps\common\SlayTheSpire" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../SteamLibrary/steamapps/common/SlayTheSpire/jre" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <configuration name="mts_testing" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../../../../SteamLibrary/steamapps/workshop/content/646570/1605060445/ModTheSpire.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\SteamLibrary\steamapps\common\SlayTheSpire" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../SteamLibrary/steamapps/common/SlayTheSpire/jre" />
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean" />
+        <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JAR Application.mts_testing" />
+      <item itemvalue="JAR Application.mts-dump-outjar" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8986e07a-59ed-4a43-b3a0-b4fada04871c" name="Changes" comment="" />
+      <created>1684245053008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684245053008</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <condition expression="pixmap1.disposed" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/untransparentthespire/UntransparentMain.java</url>
+          <line>188</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/untransparentthespire/patches/ModdedEnergyOrbPatches.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/untransparentthespire/patches/ImageMasterPatches.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="imgUrl.contains(&quot;ghost&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/untransparentthespire/patches/ImageMasterPatches.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JarApplication">
+        <watch expression="texture" />
+        <watch expression="maxY" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
